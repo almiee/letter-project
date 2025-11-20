@@ -1,4 +1,4 @@
-const message = `I don’t even know if you’ll ever read this.\nBut if you do… I just want you to know, I still think about you sometimes.\n\nWe both tried. We both cared. But the universe just never gave us enough space to become “us.”\n\nI just wonder… if we had met at a different point in life, would the ending have been different?\n\nAnyway, I hope you're doing okay, even though we’re not in each other’s lives anymore.`;
+const message = `hello amirah!\nBut wow, u're growing faster, huh? I wnt u to know that we've made a lot of progress now compared to the previous year.\n\nI hope u're alwys grateful for what u've achieved & what Allah SWT has given u.\n\n at this age, I hope u can alwys grow and become the best version of yourself! i hope u can be a good person and the reason others live. hope u're surrounded by good people around u. \n\nthis year, I hope my good prayers will be answered, by always maintaining my faith. i hope people around me are happy with me & grateful for me. i will try to focus on the beautiful things in the future. may Allah SWT. accompany my steps. \nButHAPPY BIRTHDAY ALMIEE.`;
 
 function showLetter() {
   document.getElementById("introText").style.opacity = 0;
@@ -21,3 +21,4 @@ function showLetter() {
     typeWriter();
   }, 600);
 }
+
