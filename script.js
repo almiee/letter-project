@@ -1,4 +1,4 @@
-const message = `hello amirah!\nBut wow, u're growing faster, huh? I wnt u to know that we've made a lot of progress now compared to the previous year. I hope u're alwys grateful for what u've achieved & what Allah SWT has given u. at this age, I hope u can alwys grow and become the best version of yourself! i hope u can be a good person and the reason others live. hope u're surrounded by good people around u. this year, I hope my good prayers will be answered, by always maintaining my faith. i hope people around me are happy with me & grateful for me. i will try to focus on the beautiful things in the future. may Allah SWT. accompany my steps.HAPPY BIRTHDAY ALMIEE.`;
+const message = `hello almirah!\nBut wow, u're growing faster, huh? I wnt u to know that we've made a lot of progress now compared to the previous year. I hope u're alwys grateful for what u've achieved & what Allah SWT has given u. at this age, I hope u can alwys grow and become the best version of yourself! i hope u can be a good person and the reason others live. hope u're surrounded by good people around u. this year, I hope my good prayers will be answered, by always maintaining my faith. i hope people around me are happy with me & grateful for me. i will try to focus on the beautiful things in the future. may Allah SWT. accompany my steps.HAPPY BIRTHDAY ALMIEE.`;
 
 function showLetter() {
   document.getElementById("introText").style.opacity = 0;
@@ -21,5 +21,6 @@ function showLetter() {
     typeWriter();
   }, 600);
 }
+
 
 
